@@ -5,6 +5,7 @@
 --------
 
 - [iOS]
+- [Android Engineer]
 - 欢迎 pull request 添加其它职位
 
 写作说明
@@ -46,3 +47,4 @@ License
 
 [CC BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
 [iOS]:      jobs/iOS.md
+[Android Engineer]:  jobs/Android_Engineer.md
